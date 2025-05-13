@@ -28,7 +28,5 @@ The app is written in Python and bundled into an executable. While everything ne
 
 If it doesn’t run, you can also try installing it from the **Windows Store**.
 
----
 
-Would you like me to design a quick user guide or visual for this?
 
